@@ -1,2 +1,2 @@
-# Java-Text-Mining
-System developed in Java to perform text mining to a set of txt files using tf-idf on different servers using load balancing
+# Distributed-Text-Mining
+Distributed system for text mining in books using Java, tf-idf and load balancing.
